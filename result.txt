@@ -1,0 +1,2 @@
+Generated digits: [21, 19, 96]
+Answer: 21x**3-19x**2+96 = 0
